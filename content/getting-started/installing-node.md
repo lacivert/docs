@@ -20,7 +20,7 @@ Node comes with npm installed so you should have a version of npm. However, npm 
 
 `npm install npm@latest -g`
 
-Test: Run `npm -v`. The version should be higher than 2.1.8.
+Test: Run `npm -v`. The version should be higher than 5.4.0
 
 ## Installing npm manually
 
